@@ -9,3 +9,4 @@ This repository is for practicing Git using Visual Studio Code.
 - Commit changes
 - Push to GitHub
 - Practice branches
+- Version 2
